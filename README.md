@@ -4,6 +4,7 @@ objective______________________________________________________________
 
 Vrinda Store wants to create an annual sales report for 2022 so 
 that Vrinda understand their customer and grow their sales in 2023.
+
 step___________________________________________________________________
 
 data cleaning
