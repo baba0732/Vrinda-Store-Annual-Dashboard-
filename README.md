@@ -7,11 +7,11 @@ that Vrinda understand their customer and grow their sales in 2023.
 
 step___________________________________________________________________
 
-data cleaning
-data processing
-data analysis
-data visualization
-report 
+1.data cleaning
+2.data processing
+3.data analysis
+4.data visualization
+5.report 
 
 Sample Insights_______________________________________________________
 
