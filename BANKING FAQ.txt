@@ -1,0 +1,37 @@
+1.How to cancel cheque in tally?
+Got>>banking>>cheque register>>select bank>>select chque range
+>>select availble chque no.>>alt s>>alter status>>cancel cheque>>give date and remarks>>save it.
+
+2.How to reuse cancel cheque in tally?
+Got>>banking>>checque register>>select bank>>select chque range  
+
+>>select cancel cheque>>press alt s>>alter status>>reuse the cancel cheque yes>>
+
+3.How to issue blank cheque?
+Enable zero value transaction in payment voucher type>>Got>>banking>>cheque register>>select  bank>>select chque range
+>>select availble chque no.>>alt s>>alter status>>blank cheque>>now pass payment voucher by selecting the party>>save it.
+
+4.How to issue self cheque??
+Record contra voucher>>dr cash ac>>cr bank acc>>select cheque in transaction type>>save it.
+
+5.How to deposit cheque recived in your bank?? and see deposit slip??
+record reciept>>select your bank account>>select party>>in transaction type select cheque.
+
+6.How to deposit cash in bank?? and see depopsit slip??
+pass contra>>dr bank ac>>cr cash ac>>give the cash denomination>>cntrl a
+
+7.How to print deposit slip??
+Got>>banking>>Deposit slip>>select bank>>cntrl p>>f8 to see cash deposit slip>>configure>>print cheque deposit slip>> 
+
+8.How to print payment advice??
+record payment voucher via cheque for creditor >>Got>>banking>>paymemnt advice>>select party>>select payment by spacebar>
+cntrl p.
+
+9. How to record post dated cheque (PDC) in tally??
+record payment entry>>give current date>>press cntrl t to make it post dated>>in bank allocation screen give instrument 
+date as Future date>>and in PDC issue date as current date on which date you are making payment. check post dated summary.>>
+for PDC reports.
+
+10.How to print cheque in Tally??
+Alter bank ledger>>select bank name from list of bank>>enable cheque printing>>now record payment transaction>>after 
+saving press cntrl p.
